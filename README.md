@@ -1,0 +1,2 @@
+This is a simple web page that display courses offered at Kekeli University and it was assigned to me to create
+It also has a form that takes users to a new page to fill when the enrollment button is clicked.

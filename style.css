@@ -1,0 +1,56 @@
+.header h1 {
+    text-align: center;
+    color: red;
+}
+.header h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+.container{
+    display: flex;
+    padding: 20PX;
+    flex-wrap: wrap;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img {
+    width: 250px;
+    height: 200px;
+    padding-left: 25px;
+}
+.course {
+    background-color: blue;
+    width: 300PX;
+    height: 500PX;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgba(119, 115, 115, 0.1);
+}
+.course h3, p {
+    color: white;
+    text-align: center;
+}
+.btn {
+    border: none;
+    padding: 5px;
+    width: 80%;
+    margin-left: 25px;
+    border-radius: 10px;
+    font-size: 15px;
+    color: red;
+}
+.btn:hover {
+    background-color: red;
+    color: white;
+}
+.form-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+form {
+  display: inline-block;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
